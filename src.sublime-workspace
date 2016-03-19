@@ -1,0 +1,649 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fa",
+				"fabric"
+			],
+			[
+				"acou",
+				"acountSum"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"oncli",
+				"onclick"
+			],
+			[
+				"ta",
+				"target"
+			],
+			[
+				"onc",
+				"onclick"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"MAR",
+				"margin"
+			],
+			[
+				"mar",
+				"mr-a	margin-right: auto;"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"b",
+				"bottom"
+			],
+			[
+				"cl",
+				"class	Attr"
+			],
+			[
+				"fle",
+				"flex-flow"
+			],
+			[
+				"jc",
+				"jc-sb	justify-content: space-between;"
+			],
+			[
+				"ff",
+				"ff9e02"
+			],
+			[
+				"mo",
+				"models"
+			],
+			[
+				"model",
+				"model1"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"di",
+				"d-if	display: inline-flex;"
+			],
+			[
+				"pos",
+				"pos	position: ${1:relative};"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"int",
+				"interval"
+			],
+			[
+				"f",
+				"fl	float: ${1:left};"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"che",
+				"checked"
+			],
+			[
+				"whi",
+				"width"
+			],
+			[
+				"select",
+				"selectedIndex"
+			],
+			[
+				"sele",
+				"selectedIndex"
+			],
+			[
+				"fi",
+				"filtred2"
+			],
+			[
+				"anim",
+				"animClass"
+			],
+			[
+				"vis",
+				"visible"
+			],
+			[
+				"lo",
+				"local"
+			],
+			[
+				"rcc",
+				"rcc	rcc"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"do",
+				"dotbottom"
+			],
+			[
+				"re",
+				"removeClass"
+			],
+			[
+				"ice",
+				"icesmall"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"tl",
+				"tlShake"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "ins",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"co",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"colo",
+				"Color Picker"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Anonymous Function"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Autoprefix CSS"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 258.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/admin/react-redux-firebase/src/pages/articles.jsx",
+		"/Users/admin/react-redux-firebase/src/pages/components/article.jsx",
+		"/Users/admin/react-redux-firebase/src/actions/feedback.js",
+		"/Users/admin/react-redux-firebase/src/store/reducers/feedback.js",
+		"/Users/admin/react-redux-firebase/src/pages/components/feedbackpanel.jsx",
+		"/Users/admin/react-redux-firebase/src/actions/articles.js",
+		"/Users/admin/react-redux-firebase/src/actions/auth.js",
+		"/Users/admin/react-redux-firebase/src/pages/components/authpanel.jsx",
+		"/Users/admin/react-redux-firebase/src/pages/wrapper.jsx",
+		"/Users/admin/react-redux-firebase/src/store/initialState.js",
+		"/Users/admin/react-redux-firebase/src/store/index.js",
+		"/Users/admin/react-redux-firebase/src/store/reducers/index.js",
+		"/Users/admin/react-redux-firebase/src/store/reducers/auth.js",
+		"/Users/admin/react-redux-firebase/src/store/reducers/articles.js",
+		"/Users/admin/react-redux-firebase/src/index.jsx",
+		"/Users/admin/react-redux-firebase/src/constants.js",
+		"/Users/admin/react-redux-firebase/src/App.jsx",
+		"/Users/admin/react-redux-firebase/src/actions/index.js",
+		"/Users/admin/Library/Application Support/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/Users/admin/react-redux-firebase/package.json",
+		"/Users/admin/react-redux-firebase/webpack.config.dev.js",
+		"/Users/admin/Documents/Yandex.Disk/TEST/!front-light/ie9/node.js",
+		"/Users/admin/Documents/Yandex.Disk/TEST/!front-light/ie9/animate.css",
+		"/Users/admin/Documents/Yandex.Disk/TEST/!front-light/ie9/styles.css",
+		"/Users/admin/Documents/Yandex.Disk/TEST/!front-light/ie9/index.html",
+		"/Users/admin/Documents/Yandex.Disk/TEST/!front-light/ie9/newmain.js",
+		"/Users/admin/Documents/Yandex.Disk/TEST/!front-light/ie9/main.js",
+		"/Users/admin/Documents/Yandex.Disk/!Site_IOT/css/style.css",
+		"/Users/admin/Documents/Yandex.Disk/!Site_IOT/index.html",
+		"/Users/admin/Git/kortv.github.io/nvr/.gitignore",
+		"/Users/admin/VR/aframe/hover-click/main.js",
+		"/Users/admin/VR/aframe/examples/template-models/templates/index.html",
+		"/Users/admin/VR/aframe/examples/template-models/main.js",
+		"/Users/admin/VR/nvr/templates/index.html",
+		"/Users/admin/VR/aframe/examples/template-models/index.html",
+		"/Users/admin/VR/nvr/index.html",
+		"/Users/admin/Git/kortv.github.io/nvr/index.html",
+		"/Users/admin/Git/kortv.github.io/7/webpack.config.js",
+		"/Users/admin/Git/kortv.github.io/7/package.json",
+		"/Users/admin/Git/kortv.github.io/7/css/reveal.scss",
+		"/Users/admin/Git/kortv.github.io/7/index_build.html",
+		"/Users/admin/Git/kortv.github.io/7/src/components/Page2/Page2.scss",
+		"/Users/admin/Git/kortv.github.io/7/src/components/Page1/Page1.scss",
+		"/Users/admin/Git/kortv.github.io/7/index.html",
+		"/Users/admin/Git/kortv.github.io/7/css/animate.css",
+		"/Users/admin/Git/kortv.github.io/7/src/components/Page3/Page3.scss",
+		"/Users/admin/Git/kortv.github.io/7/src/components/Page3/Page3.js",
+		"/Users/admin/Git/kortv.github.io/7/js/mainReveal.js",
+		"/Users/admin/Git/kortv.github.io/7/src/index.js",
+		"/Users/admin/Git/kortv.github.io/7/build/index.js",
+		"/Users/admin/Git/kortv.github.io/7/css/_constants.scss",
+		"/Users/admin/Git/kortv.github.io/7/src/components/Page1/Page1.js",
+		"/Users/admin/Git/kortv.github.io/7/src/components/_SlideShow/_SlideShow.js",
+		"/Users/admin/Git/kortv.github.io/7/src/components/Page2/Page2.js",
+		"/Users/admin/Git/kortv.github.io/7/build/style.css.gz",
+		"/Users/admin/Git/kortv.github.io/7/build/style.css",
+		"/Users/admin/Git/kortv.github.io/7/src/Page1.scss",
+		"/Users/admin/Git/kortv.github.io/7/lib/react-swipr.js",
+		"/Users/admin/Git/kortv.github.io/7/src/components/Page2/Page2.css",
+		"/Users/admin/Git/kortv.github.io/7/css/main.scss",
+		"/Users/admin/Git/kortv.github.io/7/css/styles.css",
+		"/Users/admin/Git/kortv.github.io/7/src/components/Page1/_constants.scss",
+		"/Users/admin/Git/kortv.github.io/7/css/_constants.css",
+		"/Users/admin/Git/kortv.github.io/7/src/components/Page1/Page1.css",
+		"/Users/admin/Git/kortv.github.io/7/css/constants.css",
+		"/Users/admin/Git/kortv.github.io/7/src/components/Page1/constants.scss",
+		"/Users/admin/Git/kortv.github.io/7/constants.css",
+		"/Users/admin/redux-tutorial-master/05_get-state.js",
+		"/Users/admin/Documents/Yandex.Disk/!appBooks/7/src/index.js",
+		"/Users/admin/Test/main.js",
+		"/Users/admin/Git/kortv.github.io/7/css/reveal.css",
+		"/Users/admin/webpack/webpack.config.js",
+		"/Users/admin/Documents/Yandex.Disk/!appBooks/7/lib/react.min.js",
+		"/Users/admin/webpack/bundle.js",
+		"/Users/admin/webpack/build/bundle.js",
+		"/Users/admin/webpack/build",
+		"/Users/admin/Documents/Yandex.Disk/!EDGE/www.codeabbey.com/index.html",
+		"/Users/admin/Desktop/test.js",
+		"/Users/admin/Documents/Yandex.Disk/!appBooks/7/react-flux-simple-app/package.json",
+		"/Users/admin/es6test/style.css",
+		"/Users/admin/Documents/Yandex.Disk/sites/6/wdgt/34/app.js",
+		"/Users/admin/Documents/Yandex.Disk/sites/6-react/wdgt/wdgt1.css",
+		"/Users/admin/Documents/Yandex.Disk/sites/6-react/wdgt/wdgt2.css",
+		"/Users/admin/Documents/Yandex.Disk/sites/6-react/wdgt/34/main.js",
+		"/Users/admin/Documents/Yandex.Disk/sites/6-react/wdgt/wdgt2.jsx",
+		"/Users/admin/Documents/Yandex.Disk/sites/6-react/wdgt/wdgt1.jsx",
+		"/Users/admin/Documents/Yandex.Disk/sites/6-react/styles.css",
+		"/Users/admin/Documents/Yandex.Disk/sites/6-react/react-tween-state-master/examples/index.jsx",
+		"/Users/admin/Documents/Yandex.Disk/sites/6-react/react-tween-state-master/examples/index.html",
+		"/Users/admin/Documents/Yandex.Disk/sites/6-react/react-tween-state-master/examples/example1.jsx",
+		"/Users/admin/Documents/Yandex.Disk/sites/6-react/react-tween-state-master/examples/example2.jsx",
+		"/Users/admin/Documents/Yandex.Disk/sites/6-react/index wdgt.html",
+		"/Users/admin/Documents/Yandex.Disk/sites/6-react/index.html",
+		"/Users/admin/Library/Application Support/Sublime Text 3/Packages/User/rcc.sublime-snippet",
+		"/Users/admin/Documents/Yandex.Disk/sites/6/index wdgt.html",
+		"/Users/admin/Documents/Yandex.Disk/sites/6/wdgt/34/app.jsx",
+		"/Users/admin/Documents/Yandex.Disk/sites/6/index.html",
+		"/Users/admin/Downloads/центр_общие_clean_and_recalc характер.csv",
+		"/Users/admin/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/Users/admin/Documents/Yandex.Disk/TEMP/wavesurfer/example/equalizer/main.js",
+		"/Users/admin/Documents/Yandex.Disk/TEMP/wavesurfer/example/equalizer/index.html",
+		"/Users/admin/Documents/Yandex.Disk/TEST/main0.js",
+		"/Users/admin/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/admin/Documents/Yandex.Disk/!EDGE/www.codeabbey.com/main1.js",
+		"/Users/admin/Documents/Yandex.Disk/TEST/1/styles.css",
+		"/Users/admin/Documents/Yandex.Disk/TEST/2/index.html",
+		"/Users/admin/Documents/Yandex.Disk/TEST/5/styles.css",
+		"/Users/admin/Documents/Yandex.Disk/TEST/5/index.html",
+		"/Users/admin/Documents/Yandex.Disk/TEST/5/main.js",
+		"/Users/admin/Documents/Yandex.Disk/TEST/Propeller-master/example/grid.html",
+		"/Users/admin/Documents/Yandex.Disk/sites/4y/video/eh5v.html",
+		"/Users/admin/Documents/Yandex.Disk/!EDGE/www.codeabbey.com/index0.html",
+		"/Users/admin/Documents/Yandex.Disk/!EDGE/www.codeabbey.com/styles.css",
+		"/Users/admin/Documents/Yandex.Disk/!EDGE/www.codeabbey.com/app.js",
+		"/Users/admin/Documents/Yandex.Disk/!EDGE/www.codeabbey.com/computing-worker.js",
+		"/Users/admin/angular/LoDb/db.json",
+		"/Users/admin/angular/LoDb/js/db.js",
+		"/Users/admin/Documents/Yandex.Disk/!EDGE/!BOOKS/iBook_37_finansovya_otchetnost/42/js/TimelineLite.min.js",
+		"/Users/admin/Documents/Yandex.Disk/!EDGE/!BOOKS/iBook_37_finansovya_otchetnost/35/main.js",
+		"/Users/admin/Desktop/Test.ibooks",
+		"/Users/admin/angular/angular-phonecat/app/index.html"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+			"/Users/admin/react-redux-firebase/src",
+			"/Users/admin/react-redux-firebase/src/actions",
+			"/Users/admin/react-redux-firebase/src"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"DISMISS_FEEDBACK",
+			"dismissFeedback",
+			"'",
+			"p.",
+			"this.",
+			"Wrapper",
+			"bric",
+			"brics",
+			"num",
+			"acountChanger",
+			"build",
+			"counter",
+			"onButton",
+			"onclick",
+			"build",
+			"addCoin",
+			"start",
+			"build",
+			"start",
+			"build",
+			"coin",
+			"element",
+			"timeCounter",
+			"p",
+			"win",
+			"setInterval",
+			"();\n",
+			"win",
+			"coinLable",
+			"acoutSum",
+			"acount.innerHTML = acoutSum;",
+			"acount.innerHTML = ",
+			"acount.innerHTML = acoutSum",
+			"coins",
+			"take",
+			"acount",
+			"acout",
+			"setIn",
+			"bric",
+			"factory",
+			"fabrics",
+			"containerFabric",
+			"__someProperty",
+			"Fab",
+			"iframe",
+			"div",
+			"iframe",
+			"div",
+			"vcurses",
+			"flex",
+			"sm-6",
+			"sm",
+			"p>",
+			"p",
+			"sha",
+			"bg3vcurses",
+			"ancor",
+			"class=\"fake\"",
+			"fake",
+			"v360text",
+			"fake",
+			"<section",
+			"rela",
+			"76px",
+			" height: 76px;",
+			"height: 76px;",
+			"jpg",
+			"data-spy",
+			"Далеко",
+			"butt",
+			"row",
+			"affix",
+			"\\",
+			"template",
+			"../_models",
+			"models",
+			"\\",
+			"fadeOutL",
+			"onTimeInterval",
+			"flexbox",
+			": \"",
+			":",
+			"clearPreviousComponent",
+			"module",
+			"Page",
+			"1",
+			".board",
+			"styles.board",
+			"board",
+			"this.props.num",
+			"source",
+			"Board",
+			"board",
+			"Board",
+			"board",
+			"Board",
+			"onToggleClick",
+			"BoardSwitcher",
+			"numBoards",
+			"this.props.numBoards",
+			"font-weight",
+			"margin-before",
+			"font-weight",
+			"bold",
+			"h2",
+			"\"flex-row \"+",
+			"\n  ",
+			"bor",
+			"border",
+			"\"+",
+			"\"ОТВЕЕЕЕТ!!!",
+			"toPlainObject",
+			"sum",
+			"`",
+			"ОТВЕЕЕЕТ!!!",
+			"getValus",
+			"obj",
+			"getObj",
+			"getValus",
+			"ОТВЕЕЕЕТ!!!",
+			"//",
+			"this",
+			"643",
+			"55",
+			"cod",
+			"Balances.CODE_EUR",
+			"Balances.CODE_USD",
+			"Balances.CODE_RUR"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 167.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 136.0
+	},
+	"pinned_build_system": "Packages/User/nodejs.sublime-build",
+	"project": "src.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 280.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
