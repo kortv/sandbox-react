@@ -61,7 +61,7 @@ function Hello(props) {
   return (
     <div>
       <h2>{props.title}</h2>
-      <input onChange={props.onChange}/>
+      <input onChange={props.onChange} />
       <button onClick={props.onClick}>{props.txt}</button>
     </div>
   );
