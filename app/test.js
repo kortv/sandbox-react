@@ -113,9 +113,10 @@
 // }
 
 // nodeJs();
-
+let i = 0;
 const loadStory = (a=1) => {
-	console.log(a);
+	i++;
+	console.log(a, i);
 	a = 10;
   	console.log(a);
 };

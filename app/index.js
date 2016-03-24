@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { render } from 'react-dom';
-require("babel-core/register");
-require("babel-polyfill");
+require('babel-core/register');
+require('babel-polyfill');
 
 class Container extends Component {
   constructor() {
@@ -17,7 +17,7 @@ class Container extends Component {
       title: 'React wow effect!!!'
     });
   }
-  handleClick2 = (e) => {
+  handleClick2 = () => {
     this.setState({
       title: this.state.txt
     });
@@ -33,7 +33,10 @@ class Container extends Component {
     return (
     <Wrapper header={this.state.title}>
       <Welcome onClick={this.handleClick} name={'Tim'} />
-      <Hello onClick={this.handleClick2} txt={this.state.txt} onChange={this.handleChange} title={this.state.title} />
+      <Hello
+        onClick={this.handleClick2} txt={this.state.txt}
+        onChange={this.handleChange} title={this.state.title}
+      />
     </Wrapper>
     );
   }
@@ -71,22 +74,16 @@ function Hello(props) {
 render(<Container />, document.getElementById('app'));
 
 const loadStory = () => {
-  console.log("ready")
-  setTimeout(()=>{console.log('set')}, 1000)
+  console.log('ready');
+  setTimeout(() => {console.log('set');}, 1000);
 };
 
-// (async function() {
-//   await loadStory();
-//   console.log("Yey, story successfully loaded!");
-// }());
-
 (async function() {
-    try {
-        // Просто дожидаемся результата из промиса
-        await loadStory();
-        console.log("Yey, story successfully loaded!");
-
-    } catch (e) {
-        console.log(e)
-    }
+  try {
+    // Просто дожидаемся результата из промиса
+    await loadStory();
+    console.log('Yey, story successfully loaded!');
+  } catch (e) {
+    console.log(e);
+  }
 })();
