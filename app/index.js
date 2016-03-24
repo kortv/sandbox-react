@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import { render } from 'react-dom';
-
+require("babel-core/register");
+require("babel-polyfill");
 
 class Container extends Component {
   constructor() {
@@ -68,3 +69,24 @@ function Hello(props) {
 }
 
 render(<Container />, document.getElementById('app'));
+
+const loadStory = () => {
+  console.log("ready")
+  setTimeout(()=>{console.log('set')}, 1000)
+};
+
+// (async function() {
+//   await loadStory();
+//   console.log("Yey, story successfully loaded!");
+// }());
+
+(async function() {
+    try {
+        // Просто дожидаемся результата из промиса
+        await loadStory();
+        console.log("Yey, story successfully loaded!");
+
+    } catch (e) {
+        console.log(e)
+    }
+})();
